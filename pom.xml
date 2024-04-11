@@ -4,7 +4,7 @@
   <artifactId>MavenProjectMar2024</artifactId>
   <version>hrm_0.0.1</version>
   
-  <!--Add dependencies like selenium log4j testng  -->
+  <!--Add dependencies like selenium log4j testng   -->
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
