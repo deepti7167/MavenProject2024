@@ -10,7 +10,7 @@ public class TimeTest_pikachu{
   }
   
   @Test
-  public void TestCurrentTimeInToronto() {
+  public void TestCurrentTimeInTorontoo() {
   }
   
   @Test
